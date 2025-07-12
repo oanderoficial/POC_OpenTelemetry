@@ -11,3 +11,5 @@
 <p>O Zabbix na versão 8 promete integrar o OpenTelemetry nativamente </p>
 <strong> Roadmap: </strong> https://www.zabbix.com/roadmap
 <br> <br>
+
+<img width="972" height="406" alt="image" src="https://github.com/user-attachments/assets/81822a6b-9ba7-4f01-8722-9e63dc711931" />
